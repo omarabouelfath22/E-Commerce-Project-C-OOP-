@@ -22,7 +22,7 @@ This project focuses on implementing robust software design patterns and OOP pri
 
 \## Concept Used :
 
-* Classes - Inheritance - Abstract Classes
+* Classes - Objects - Inheritance - Abstract Classes
 * Friend Functions - Function Overriding
 * Constructors - Setters \& Getters - Switch Cases
 

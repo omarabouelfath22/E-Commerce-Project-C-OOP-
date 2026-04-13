@@ -8,7 +8,7 @@ This project focuses on implementing robust software design patterns and OOP pri
 
 \## Created By :
 
-\*\*Omar\*\* - Student at "Obour university for science and technology"
+\*\*OmarAbouelfath\*\* - Student at "Obour university for science and technology"
 
 
 

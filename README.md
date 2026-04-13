@@ -14,9 +14,9 @@ This project focuses on implementing robust software design patterns and OOP pri
 
 \## Libraries Used :
 
-* <iostream>
-* <string>
-* <vector>
+* 'iostream
+* 'string
+* 'vector
 
 
 
